@@ -11,15 +11,17 @@ Ibn Battuta set off from Tangier on a hajj in 1325, and did not return home for 
 
 ‘Mapping Ibn Battuta’s Journey’ attempts to provide a narrative of Ibn Battuta’s journey, using StoryMap JS by Knight Labs.
 
+# StoryMap
+
 <iframe src="https://uploads.knightlab.com/storymapjs/d1ee5d64be1b87b46201fa01d2973aa8/practice/index.html" frameborder="0" width="100%" height="800"></iframe>
 
-#Process
+# Process
 
-##Source Material
+## Source Material
 
 The source material consulted was Ross E. Dunn’s The Adventures of Ibn Battuta: A Muslim Traveler of the Fourteenth Century (University of California Press, 2012). All quotations in the Story Map come from this work.
 
-##Data
+## Data
 
 Through close reading of Ross E. Dunn’s book, I created a dataset of every single location that Ibn Battuta mentioned traveling to in the Rihla. This dataset was bolstered with relevant coordinates and date visited, in order to create a map demonstrating the trajectory of Ibn Battuta’s journey.
 
@@ -27,6 +29,6 @@ A similar, smaller, dataset was used to create the map of his wives and children
 
 To craft a narrative, important locations highlighted by Ibn Battuta were chosen to create a list for the StoryMap, including helpful quotations for each location. This was determined through close reading of the book.
 
-##Tools
+## Tools
 
 StoryMaps JS was used to create the story map.
