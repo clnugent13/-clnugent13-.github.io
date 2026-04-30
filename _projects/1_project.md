@@ -36,7 +36,6 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
-<iframe width="700" height="600" allow="local-network-access; geolocation" title="Indigenous Placenames of Massachusetts" src="https://nu.maps.arcgis.com/apps/mapviewer/index.html?configurableview=true&webmap=7ce475ce134b4a6796586ac5bdea046b&theme=light&scroll=false&center=-71.71613720703017,42.26656047051537&scale=2311162.217155" ></iframe>
 
 The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
