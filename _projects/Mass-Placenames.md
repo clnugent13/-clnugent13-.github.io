@@ -4,7 +4,6 @@ title: Indigenous Placenames of Massachusetts
 description: Digital Humanities Project in Progress
 img: assets/img/12.jpg
 importance: 1
-category: work
 related_publications: true
 ---
 
