@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. World Historian in Boston.
+subtitle: Digital Historian in Boston.
 
 profile:
   align: right
