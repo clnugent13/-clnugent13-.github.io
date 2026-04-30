@@ -11,10 +11,12 @@ Ibn Battuta set off from Tangier on a hajj in 1325, and did not return home for 
 
 ‘Mapping Ibn Battuta’s Journey’ attempts to provide a narrative of Ibn Battuta’s journey, using StoryMap JS by Knight Labs.
 
+---
 # StoryMap
 
 <iframe src="https://uploads.knightlab.com/storymapjs/d1ee5d64be1b87b46201fa01d2973aa8/practice/index.html" frameborder="0" width="100%" height="800"></iframe>
 
+---
 # Process
 
 ## Source Material
