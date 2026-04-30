@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: **Digital Historian in Boston.**
+subtitle: Digital Historian in Boston.
 
 profile:
   align: right
