@@ -18,11 +18,11 @@ Colleen Louise Nugent McLean, Northeastern University History Department, Qualif
 
 
 ## Modern Britain, the British Empire, & World History
-*All summaries written for personal use
+*All summaries written for personal use*
 World History
+*[Abu-Ludhod, Janet. *Before European Hegemony: The World System, 1250–1350.* New York: Oxford University Press, 1989.]("/assets/comps/abu-lughod-european.pdf")
+*[Ballantyne, Tony, and Antoinette Burton. *Bodies in Contact: Rethinking Colonial Encounters in World History.* Champaign: University of Illinois Press, 2005.]("/assets/comps/burton-ballantyne-bodies.pdf")
 
-    Abu-Lughod, Janet. Before European Hegemony: The World System, 1250-1350. New York: Oxford University Press, 1989.
-    Ballantyne, Tony and Antoinette Burton. Bodies in Contact: Rethinking Colonial Encounters in World History. Champaign: University of Illinois Press, 2005.
     Bose, Sugata. A Hundred Horizons: The Indian Ocean in the Age of Global Empire. Cambridge: Harvard University Press, 2006.
     Christian, David. Maps of Time: An Introduction to Big History. Berkeley: University of California Press, 2004.
     Crosby, Alfred W. Ecological Imperialism: The Biological Expansion of Europe, 900-1900. New York: Cambridge University Press, 1986.
