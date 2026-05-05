@@ -409,8 +409,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-7",
-          title: 'project 7',
+          section: "News",},{id: "projects-comprehensive-exams",
+          title: 'Comprehensive Exams!',
           description: "Reading lists &amp; summaries",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
