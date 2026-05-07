@@ -27,7 +27,7 @@ cv:
         end_date: 2016
 
 
-    Experience:
+    Professional Experience:
       - company: Digital Humanities Now
         position: Editor
         location: Boston, Massachusetts
@@ -111,7 +111,8 @@ cv:
         location: Boston, Massachusetts
         start_date: 2017
         end_date: 2018
-        
+
+    Research Experience:    
       - company: Women Writers Project
         position: Research Assistant
         location: Boston, Massachusetts
