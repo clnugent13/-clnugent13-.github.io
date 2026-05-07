@@ -39,9 +39,6 @@ cv:
         location: Northeastern University, Boston, Massachusetts
         start_date: 2025
         end_date: Present
-        highlights:
-          - Description 1.
-          - Description 2.
 
       - company: Digital Humanities Now
         position: Project Manager
@@ -88,12 +85,6 @@ cv:
       - company: History Graduate Student Association
         position: President
         location: Northeastern University, Boston, Massachusetts
-        start_date: 2020
-        end_date: 2021
-      
-      - company: SIGNS: Journal of Women in Culture and Society
-        position: Graudate Assistant
-        location: Boston, Massachusetts
         start_date: 2020
         end_date: 2021
 
