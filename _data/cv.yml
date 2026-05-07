@@ -1,99 +1,156 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+  name: Colleen L. Nugent McLean
+  email: c.nugent@northeastern.edu
+  website: https://clnugent13.github.io/
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: Northeastern University
+        location: Boston, Massachusetts
+        area: World History
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+        start_date: 2019
+        end_date: 2026
+
+      - institution: Northeastern University
+        location: Boston, Massachusetts
+        area: World History 
+        studyType: MA
+        start_date: 2017
+        end_date: 2019
+
+         - institution: Union College
+        location: Schenectady, New York
+        area: History and Political Science 
+        studyType: BA
+        start_date: 2012
+        end_date: 2016
+
+
+    Professional Experience:
+      - company: Digital Humanities Now
+        position: Editor
+        location: Boston, Massachusetts
+        start_date: 2026
+        end_date: Present
+
+      - company: Centers for Digital Scholarship
+        position: Coordinator
+        location: Northeastern University, Boston, Massachusetts
+        start_date: 2025
+        end_date: Present
         highlights:
           - Description 1.
           - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - company: Digital Humanities Now
+        position: Project Manager
+        location: Boston, Massachusetts
+        start_date: 2025
+        end_date: 2026
 
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+      - company: Boston DH Steering Committee
+        position: Member
+        location: Boston, Massachusetts
+        start_date: 2025
+        end_date: Present
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+      - company: Women Writers Project
+        position: Interim Project Manager
+        location: Boston, Massachusetts
+        start_date: 2024
+        end_date: 2026
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+        - company: World History Association
+        position: Graduate Assistant
+        location: Boston, Massachusetts
+        start_date: 2023
+        end_date: 2024
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+        - company: Digital Integration Teaching Initiative
+        position: Research Fellows Leadership Director
+        location: NULab for Digital Humanities and Computational Social Science, Boston, Massachusetts
+        start_date: 2022
+        end_date: 2022
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+        - company: Women Writers Project
+        position: Text Encoder
+        location: Boston, Massachusetts
+        start_date: 2021
+        end_date: 2024
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+         - company: NULab for Digital Humanities and Computational Social Science
+        position: Principal Coordinator
+        location: Boston, Massachusetts
+        start_date: 2021
+        end_date: 2022
+
+         - company: History Graduate Student Association
+        position: President
+        location: Northeastern University, Boston, Massachusetts
+        start_date: 2020
+        end_date: 2021
+
+         - company: SIGNS: Journal of Women in Culture and Society
+        position: Graudate Assistant
+        location: Boston, Massachusetts
+        start_date: 2020
+        end_date: 2021
+
+         - company: City of Boston Archives
+        position: Fieldwork Intern
+        location: Boston, Massachusetts
+        start_date: 2020
+        end_date: 2020
+
+         - company: History Graduate Student Association
+        position: Treasurer and Welfare Officer
+        location: Boston, Massachusetts
+        start_date: 2018
+        end_date: 2019
+
+         - company: Women Writers Project
+        position: Documentary Assistant
+        location: Boston, Massachusetts
+        start_date: 2018
+        end_date: 2018
+
+         - company: Art of the March
+        position: Qualitative Data Analyst
+        location: Northeastern University, Boston, Massachusetts
+        start_date: 2017
+        end_date: 2018
+
+    Research Experience:
+      - company: Women Writers Project
+        position: Research Assistant
+        location: Boston, Massachusetts
+        start_date: 2018
+        end_date: 2025
+
+      - company: NULab for Digital Humanities and Computational Social Science
+        position: Research Fellow
+        location: Boston, Massachusetts
+        start_date: 2021
+        end_date: 2022
+
+      - company: Women's, Gender, and Sexuality Studies
+        position: Research Assistant
+        location: Northeastern University, Boston, Massachusetts
+        start_date: 2020
+        end_date: 2021
+
+      - company: NULab for Digital Humanities and Computational Social Science
+        position: Research Fellow
+        location: Boston, Massachusetts
+        start_date: 2019
+        end_date: 2020
+
+      - company: Boston Research Center
+        position: Researc Assistant
+        location: Northeastern University, Boston, Massachusetts
+        start_date: 2018
+        end_date: 2019
 
     Awards:
       - title: Nobel Prize in Physics
@@ -112,29 +169,103 @@ cv:
         summary: Awarded for outstanding scientific achievement
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: The Civil Rights and Restorative Justice Project: Interview with Gina Nortonsmith and Joel Lee
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Colleen Nugent McLean
+        publisher: Centers for Digital Scholarship, Northeastern University
+        releaseDate: 2026-04-30
+        url: https://cds.library.northeastern.edu/the-civil-rights-and-restorative-justice-project-interview-with-gina-nortonsmith-and-joel-lee/
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: Interview with Kehinde Ilegbusi and Holly Lyczak from the Reckonings Project
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Colleen Nugent McLean
+        publisher: Centers for Digital Scholarship, Northeastern University
+        releaseDate: 2026-04-06
+        url: https://cds.library.northeastern.edu/reckonings-interview/
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: Interview with Libby Collard and Odile Jordon from Mapping Black London
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Colleen Nugent McLean
+        publisher: Centers for Digital Scholarship, Northeastern University
+        releaseDate: 2026-02-13
+        url: https://cds.library.northeastern.edu/mbl-interview/
+
+      - title: Interview with Cara Hullings and Hailey Punis from the Digital Archive of Indigenous Language Peristence (DAILP)
+        authors:
+          - Colleen Nugent McLean
+        publisher: Centers for Digital Scholarship, Northeastern University
+        releaseDate: 2025-12-12
+        url: https://cds.library.northeastern.edu/dailp-interview/  
+        
+      - title: Interview with the Digital Transgender Archive's Boston Lab Lead, Faith Maldonado
+        authors:
+          - Colleen Nugent McLean
+        publisher: Centers for Digital Scholarship, Northeastern University
+        releaseDate: 2025-11-07
+        url: https://cds.library.northeastern.edu/dta-interview/
+        
+      - title: Craven's Journey: NULab Research Project
+        authors:
+          - Colleen Nugent
+        publisher: Women Writers Project Blog
+        releaseDate: 2022-05-27
+        url: https://wwp.northeastern.edu/blog/cravens-journey/
+
+      - title: Craven's Journey: NULab Research Project
+        authors:
+          - Colleen Nugent
+        publisher: NULab for Digital Humanities and Computational Social Science
+        releaseDate: 2022-04-30
+        url: https://cssh.northeastern.edu/nulab/cravens-journey-nulab-research-project/ 
+
+      - title: Voices of Boston: In the Wake of WWII, Morna Crawford Moves to Fenway
+        authors:
+          - Colleen Nugent
+        publisher: City of Boston News
+        releaseDate: 2020-09-02
+        url: https://web.archive.org/web/20250720064449/https:/www.boston.gov/news/voices-boston-wake-wwii-morna-crawford-moves-fenway
+
+      - title: Voices of Boston: Arts and Culture in Boston's Black Community
+        authors:
+          - Colleen Nugent
+        publisher: City of Boston News
+        releaseDate: 2020-08-06
+        url: https://web.archive.org/web/20250914145430/https:/www.boston.gov/news/voices-boston-arts-and-culture-bostons-black-community
+
+      - title: Voices of Boston: The Jamaica Plain Angel Food Cake Robbery
+        authors:
+          - Colleen Nugent
+        publisher: City of Boston News
+        releaseDate: 2020-07-30
+        url: https://web.archive.org/web/20251115154831/https:/www.boston.gov/news/voices-boston-jamaica-plain-angel-food-cake-robbery
+
+      - title: Voices of Boston: Rapid Transit, 'Social Fights,' and a Hippopotamus in Dorchester
+        authors:
+          - Colleen Nugent
+        publisher: City of Boston News
+        releaseDate: 2020-07-16
+        url: https://web.archive.org/web/20250625081541/https:/www.boston.gov/news/voices-boston-rapid-transit-social-fights-and-hippopotamus-dorchester
+
+      - title: Voices of Boston: Louise and Miss Ives Discuss Education and Innovation in Roslindale
+        authors:
+          - Colleen Nugent
+        publisher: City of Boston News
+        releaseDate: 2020-07-09
+        url: https://web.archive.org/web/20251107181338/https:/www.boston.gov/news/voices-boston-louise-and-miss-ives-discuss-education-and-innovation-roslindale
+
+     - title: Exploring Boston's Neighborhood Histories: An Intro to an Archives Blog Series
+        authors:
+          - Colleen Nugent
+        publisher: City of Boston News
+        releaseDate: 2020-07-02
+        url: https://www.boston.gov/news/exploring-bostons-neighborhood-histories-intro-archives-blog-series
+
+      - title: Visualizing French Muslims: NULab Project
+        authors:
+          - Colleen Nugent
+        publisher: NULab for Digital Humanities and Computational Social Science
+        releaseDate: 2019-05-14
+        url: https://cssh.northeastern.edu/nulab/visualizing-french-muslims-nulab-project/
 
     Skills:
       - name: Physics
@@ -155,35 +286,19 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - name: Graduate Certificate in Public History
+        date: 2021
+        issuer: Northeastern University
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      - name: Graduate Certificate in Womens, Gender, and Sexuality Studies
+        date: 2020
+        issuer: Northeastern University
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - name: Graduate Certificate in Digital Humanities
+        date: 2019
+        issuer: Northeastern University
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+     Digital Skills:
+      - name: Advanced (Microsoft Suite, ArcGIS, WordPress, GitHub, BBEdit, StoryMaps JS, Zotero, Audacity, Lexos, TEI/XML, HTML, AntConc, word2vec)
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Intermediate (R/Rstudio, Terminal, qGIS, ggplot2)
