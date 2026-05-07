@@ -1,6 +1,16 @@
 # for more options, see https://docs.rendercv.com/user_guide/yaml_input_structure/design/
 design:
   theme: classic
+  sections_order:
+    -Education
+    -Professional Experience
+    -Research Experience
+    -Teaching Experience
+    -Publications
+    -Conference Presentations
+    -Certificates
+    -Professional Service
+    -Digital Skills
   page:
     size: a4
     show_footer: false
