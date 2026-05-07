@@ -32,13 +32,13 @@ cv:
         position: Editor
         location: Boston, Massachusetts
         start_date: 2026
-        end_date: Present
+        end_date: present
 
       - company: Centers for Digital Scholarship
         position: Coordinator
         location: Northeastern University, Boston, Massachusetts
         start_date: 2025
-        end_date: Present
+        end_date: present
 
       - company: Digital Humanities Now
         position: Project Manager
@@ -50,7 +50,7 @@ cv:
         position: Member
         location: Boston, Massachusetts
         start_date: 2025
-        end_date: Present
+        end_date: present
 
       - company: Women Writers Project
         position: Interim Project Manager
