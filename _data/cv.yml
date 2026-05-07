@@ -34,9 +34,9 @@ cv:
         start_date: 2026
         end_date: present
 
-      - company: Centers for Digital Scholarship
+      - company: Centers for Digital Scholarship, Northeastern University
         position: Coordinator
-        location: Northeastern University, Boston, Massachusetts
+        location: Boston, Massachusetts
         start_date: 2025
         end_date: present
 
@@ -64,9 +64,9 @@ cv:
         start_date: 2023
         end_date: 2024
 
-      - company: Digital Integration Teaching Initiative
+      - company: Digital Integration Teaching Initiative, NULab for Digital Humanities and Computational Social Science
         position: Research Fellows Leadership Director
-        location: NULab for Digital Humanities and Computational Social Science, Boston, Massachusetts
+        location: Boston, Massachusetts
         start_date: 2022
         end_date: 2022
 
@@ -82,9 +82,9 @@ cv:
         start_date: 2021
         end_date: 2022
 
-      - company: History Graduate Student Association
+      - company: History Graduate Student Association, Northeastern University
         position: President
-        location: Northeastern University, Boston, Massachusetts
+        location: Boston, Massachusetts
         start_date: 2020
         end_date: 2021
 
@@ -106,13 +106,12 @@ cv:
         start_date: 2018
         end_date: 2018
 
-      - company: Art of the March
+      - company: Art of the March, Northeastern University
         position: Qualitative Data Analyst
-        location: Northeastern University, Boston, Massachusetts
+        location: Boston, Massachusetts
         start_date: 2017
         end_date: 2018
-
-    Research Experience:
+        
       - company: Women Writers Project
         position: Research Assistant
         location: Boston, Massachusetts
