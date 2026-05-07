@@ -61,61 +61,61 @@ cv:
         start_date: 2024
         end_date: 2026
 
-        - company: World History Association
+      - company: World History Association
         position: Graduate Assistant
         location: Boston, Massachusetts
         start_date: 2023
         end_date: 2024
 
-        - company: Digital Integration Teaching Initiative
+      - company: Digital Integration Teaching Initiative
         position: Research Fellows Leadership Director
         location: NULab for Digital Humanities and Computational Social Science, Boston, Massachusetts
         start_date: 2022
         end_date: 2022
 
-        - company: Women Writers Project
+      - company: Women Writers Project
         position: Text Encoder
         location: Boston, Massachusetts
         start_date: 2021
         end_date: 2024
 
-         - company: NULab for Digital Humanities and Computational Social Science
+      - company: NULab for Digital Humanities and Computational Social Science
         position: Principal Coordinator
         location: Boston, Massachusetts
         start_date: 2021
         end_date: 2022
 
-         - company: History Graduate Student Association
+      - company: History Graduate Student Association
         position: President
         location: Northeastern University, Boston, Massachusetts
         start_date: 2020
         end_date: 2021
 
-         - company: SIGNS: Journal of Women in Culture and Society
+      - company: SIGNS: Journal of Women in Culture and Society
         position: Graudate Assistant
         location: Boston, Massachusetts
         start_date: 2020
         end_date: 2021
 
-         - company: City of Boston Archives
+      - company: City of Boston Archives
         position: Fieldwork Intern
         location: Boston, Massachusetts
         start_date: 2020
         end_date: 2020
 
-         - company: History Graduate Student Association
+      - company: History Graduate Student Association
         position: Treasurer and Welfare Officer
         location: Boston, Massachusetts
         start_date: 2018
         end_date: 2019
 
-         - company: Women Writers Project
+      - company: Women Writers Project
         position: Documentary Assistant
         location: Boston, Massachusetts
         start_date: 2018
         end_date: 2018
 
-         - company: Art of the March
+      - company: Art of the March
         position: Qualitative Data Analyst
         location: Northeastern University, Boston, Massachusetts
         start_date: 2017
