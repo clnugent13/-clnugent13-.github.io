@@ -143,6 +143,18 @@ cv:
         start_date: 2018
         end_date: 2019
 
+    Teaching Experience:
+        - course: HIST 2211: The World Since 1945
+          position: Instructor of Record
+          location: Northeastern University
+          date: 2024
+
+        - course: HIST 2311: Colonialism/Imperialism
+          position: Instructor of Record
+          location: Northeastern University
+          date: 2023
+        
+    
     Awards:
       - title: Nobel Prize in Physics
         authors:
