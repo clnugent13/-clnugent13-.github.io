@@ -30,19 +30,19 @@ cv:
         position: Editor
         location: Boston, MA
         start_date: 2026
-        end_date: Present
+        end_date: present
 
       - company: Centers for Digital Scholarship
         position: Coordinator
         location: Northeastern University, Boston, MA
         start_date: 2025
-        end_date: Present
+        end_date: present
 
       - company: Boston DH Steering Committee
         position: Member
         location: Boston, MA
         start_date: 2025
-        end_date: Present
+        end_date: present
 
       - company: Digital Humanities Now
         position: Project Manager
@@ -119,14 +119,14 @@ cv:
     Volunteer:
       - company: ACH 2026 (Association for Computers and the Humanities)
         position: Reviewer
-        start_date: 2026-XX-XX
-        end_date: 2026-XX-XX
+        start_date: 2026
+        end_date: 2026
 
       - company: DH2026 (Alliance of Digital Humanities Organizations)
         position: Reviewer
-        start_date: 2026-XX-XX
-        end_date: 2026-XX-XX        
-
+        start_date: 2026
+        end_date: 2026
+        
     Publications:
       - title: Craven's Journey NULab Research Project
         authors:
