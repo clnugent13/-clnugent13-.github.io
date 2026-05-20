@@ -27,7 +27,7 @@ cv:
         end_date: 2016
 
 
-    Professional Experience:
+    Experience:
       - company: Digital Humanities Now
         position: Editor
         location: Boston, Massachusetts
@@ -112,7 +112,7 @@ cv:
         start_date: 2017
         end_date: 2018
 
-    Research Experience:    
+    Research:    
       - company: Women Writers Project
         position: Research Assistant
         location: Boston, Massachusetts
@@ -153,23 +153,6 @@ cv:
           position: Instructor of Record
           location: Northeastern University
           date: 2023
-        
-    
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
 
     Certificates:
       - name: Graduate Certificate in Public History
