@@ -80,7 +80,7 @@ cv:
         start_date: 2020
         end_date: 2021
 
-      - company: SIGNS: Journal of Women and Culture in Society
+      - company: SIGNS Journal of Women and Culture in Society
         position: Graduate Assistant
         location: Boston, MA
         start_date: 2020
@@ -128,14 +128,14 @@ cv:
         end_date: 2026-XX-XX        
 
     Publications:
-      - title: Craven's Journey: NULab Research Project
+      - title: Craven's Journey NULab Research Project
         authors:
           - Colleen Nugent
         publisher: Women Writers Project Blog
         releaseDate: 2022-05-27
         url: https://wwp.northeastern.edu/blog/cravens-journey/
 
-      - title: Voices of Boston: Arts and Culture in Boston's Black Community
+      - title: Voices of Boston Arts and Culture in Boston's Black Community
         authors:
           - Colleen Nugent
         publisher: City of Boston News
@@ -143,7 +143,7 @@ cv:
         url: https://web.archive.org/web/20241109194308/https://www.boston.gov/news/voices-boston-arts-and-culture-bostons-black-community
         summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
 
-      - title: Visualizing French Muslims: NULab Project
+      - title: Visualizing French Muslims NULab Project
         authors:
           - Albert Einstein
         publisher: NULab for Digital Humanities and Computational Social Science
@@ -171,10 +171,10 @@ cv:
         issuer: Northeastern University
 
     Teaching:
-      - name: HIST 2211: The World Since 1945
+      - name: HIST 2211 The World Since 1945
         start_date: 2024-05-05
         end_date: 2024-06-30
 
-      - name: HIST 2311: Colonialism/Imperialism
+      - name: HIST 2311 Colonialism/Imperialism
         start_date: 2023-07-05
         end_date: 2023-08-25
