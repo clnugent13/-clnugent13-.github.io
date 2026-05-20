@@ -1,173 +1,180 @@
 cv:
-  name: Colleen L. Nugent McLean
+  name: Colleen Nugent McLean
   email: c.nugent@northeastern.edu
-  website: https://clnugent13.github.io/
 
   sections:
     Education:
       - institution: Northeastern University
-        location: Boston, Massachusetts
+        location: Boston, MA
         area: World History
         studyType: PhD
         start_date: 2019
         end_date: 2026
 
       - institution: Northeastern University
-        location: Boston, Massachusetts
-        area: World History 
+        location: Boston, MA
+        area: World History
         studyType: MA
         start_date: 2017
         end_date: 2019
 
       - institution: Union College
-        location: Schenectady, New York
-        area: History and Political Science 
+        location: Schenectady, NY
+        area: History and Political Science
         studyType: BA
         start_date: 2012
-        end_date: 2016
-
-
+        end_date: 2016 
+        
     Experience:
       - company: Digital Humanities Now
         position: Editor
-        location: Boston, Massachusetts
+        location: Boston, MA
         start_date: 2026
-        end_date: present
+        end_date: Present
 
-      - company: Centers for Digital Scholarship, Northeastern University
+      - company: Centers for Digital Scholarship
         position: Coordinator
-        location: Boston, Massachusetts
+        location: Northeastern University, Boston, MA
         start_date: 2025
-        end_date: present
-
-      - company: Digital Humanities Now
-        position: Project Manager
-        location: Boston, Massachusetts
-        start_date: 2025
-        end_date: 2026
+        end_date: Present
 
       - company: Boston DH Steering Committee
         position: Member
-        location: Boston, Massachusetts
+        location: Boston, MA
         start_date: 2025
-        end_date: present
+        end_date: Present
+
+      - company: Digital Humanities Now
+        position: Project Manager
+        location: Boston, MA
+        start_date: 2025
+        end_date: 2026
 
       - company: Women Writers Project
         position: Interim Project Manager
-        location: Boston, Massachusetts
+        location: Boston, MA
         start_date: 2024
         end_date: 2026
 
       - company: World History Association
         position: Graduate Assistant
-        location: Boston, Massachusetts
+        location: Boston, MA
         start_date: 2023
         end_date: 2024
 
-      - company: Digital Integration Teaching Initiative, NULab for Digital Humanities and Computational Social Science
+      - company: NULab for Digital Humanities and Computational Social Science
         position: Research Fellows Leadership Director
-        location: Boston, Massachusetts
+        location: Boston, MA
         start_date: 2022
         end_date: 2022
 
-      - company: Women Writers Project
-        position: Text Encoder
-        location: Boston, Massachusetts
-        start_date: 2021
-        end_date: 2024
-
       - company: NULab for Digital Humanities and Computational Social Science
         position: Principal Coordinator
-        location: Boston, Massachusetts
+        location: Boston, MA
         start_date: 2021
         end_date: 2022
 
-      - company: History Graduate Student Association, Northeastern University
+      - company: History Graduate Student Association
         position: President
-        location: Boston, Massachusetts
+        location: Boston, MA
         start_date: 2020
         end_date: 2021
 
+      - company: SIGNS: Journal of Women and Culture in Society
+        position: Graduate Assistant
+        location: Boston, MA
+        start_date: 2020
+        end_date: 2021
+        
       - company: City of Boston Archives
         position: Fieldwork Intern
-        location: Boston, Massachusetts
+        location: Boston, MA
         start_date: 2020
         end_date: 2020
-
+        
       - company: History Graduate Student Association
-        position: Treasurer and Welfare Officer
-        location: Boston, Massachusetts
+        position: Conference Treasury and Welfare Officer
+        location: Boston, MA
+        start_date: 2018
+        end_date: 2019
+
+      - company: Boston Research Center
+        position: Research Assistant
+        location: Boston, MA
         start_date: 2018
         end_date: 2019
 
       - company: Women Writers Project
         position: Documentary Assistant
-        location: Boston, Massachusetts
+        location: Boston, MA
         start_date: 2018
         end_date: 2018
 
-      - company: Art of the March, Northeastern University
+      - company: Art of the March
         position: Qualitative Data Analyst
-        location: Boston, Massachusetts
+        location: Boston, MA
         start_date: 2017
         end_date: 2018
 
-    Research:    
-      - company: Women Writers Project
-        position: Research Assistant
-        location: Boston, Massachusetts
-        start_date: 2018
-        end_date: 2025
+    Volunteer:
+      - company: ACH 2026 (Association for Computers and the Humanities)
+        position: Reviewer
+        start_date: 2026-XX-XX
+        end_date: 2026-XX-XX
 
-      - company: NULab for Digital Humanities and Computational Social Science
-        position: Research Fellow
-        location: Boston, Massachusetts
-        start_date: 2021
-        end_date: 2022
+      - company: DH2026 (Alliance of Digital Humanities Organizations)
+        position: Reviewer
+        start_date: 2026-XX-XX
+        end_date: 2026-XX-XX        
 
-      - company: Women's, Gender, and Sexuality Studies
-        position: Research Assistant
-        location: Northeastern University, Boston, Massachusetts
-        start_date: 2020
-        end_date: 2021
+    Publications:
+      - title: Craven's Journey: NULab Research Project
+        authors:
+          - Colleen Nugent
+        publisher: Women Writers Project Blog
+        releaseDate: 2022-05-27
+        url: https://wwp.northeastern.edu/blog/cravens-journey/
 
-      - company: NULab for Digital Humanities and Computational Social Science
-        position: Research Fellow
-        location: Boston, Massachusetts
-        start_date: 2019
-        end_date: 2020
+      - title: Voices of Boston: Arts and Culture in Boston's Black Community
+        authors:
+          - Colleen Nugent
+        publisher: City of Boston News
+        releaseDate: 2020-08-06
+        url: https://web.archive.org/web/20241109194308/https://www.boston.gov/news/voices-boston-arts-and-culture-bostons-black-community
+        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
 
-      - company: Boston Research Center
-        position: Researc Assistant
-        location: Northeastern University, Boston, Massachusetts
-        start_date: 2018
-        end_date: 2019
+      - title: Visualizing French Muslims: NULab Project
+        authors:
+          - Albert Einstein
+        publisher: NULab for Digital Humanities and Computational Social Science
+        releaseDate: 2019-03-20
+        url: https://cssh.northeastern.edu/nulab/visualizing-french-muslims-nulab-project/
 
-    Teaching Experience:
-        - course: HIST 2211: The World Since 1945
-          position: Instructor of Record
-          location: Northeastern University
-          date: 2024
+    Skills:
+      - name: GitHub, WordPress, Microsoft Suite, ArcGIS, StoryMap JS, BBEdit, Lexos, TEI/XML, HTML, AntConc, word2vec
+        level: Advanced
 
-        - course: HIST 2311: Colonialism/Imperialism
-          position: Instructor of Record
-          location: Northeastern University
-          date: 2023
+      - name: R/Rstudio, Terminal, qGIS, ggplot2
+        level: Intermediate        
 
     Certificates:
       - name: Graduate Certificate in Public History
-        date: 2021
+        date: 2021-05-01
         issuer: Northeastern University
 
       - name: Graduate Certificate in Womens, Gender, and Sexuality Studies
-        date: 2020
+        date: 2020-05-01
         issuer: Northeastern University
 
       - name: Graduate Certificate in Digital Humanities
-        date: 2019
+        date: 2019-01-01
         issuer: Northeastern University
 
-    Digital Skills:
-      - name: Advanced (Microsoft Suite, ArcGIS, WordPress, GitHub, BBEdit, StoryMaps JS, Zotero, Audacity, Lexos, TEI/XML, HTML, AntConc, word2vec)
+    Teaching:
+      - name: HIST 2211: The World Since 1945
+        start_date: 2024-05-05
+        end_date: 2024-06-30
 
-      - name: Intermediate (R/Rstudio, Terminal, qGIS, ggplot2)
+      - name: HIST 2311: Colonialism/Imperialism
+        start_date: 2023-07-05
+        end_date: 2023-08-25
