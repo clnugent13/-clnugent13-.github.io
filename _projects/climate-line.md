@@ -2,7 +2,6 @@
 layout: page
 title: Climate Change Storyline
 description: Demo of Knight Lab Storyline
-img: assets/img/1.jpg
 importance: 3
 category: work
 ---
